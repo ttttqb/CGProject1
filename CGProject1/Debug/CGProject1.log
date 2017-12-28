@@ -1,5 +1,0 @@
-﻿  CGApp.cpp
-c:\users\tanqi\documents\visual studio 2017\projects\cgproject1\cgproject1\cgapp.cpp(53): warning C4838: 从“int”转换到“DWORD”需要收缩转换
-c:\users\tanqi\documents\visual studio 2017\projects\cgproject1\cgproject1\cgapp.cpp(55): warning C4101: “ptr”: 未引用的局部变量
-c:\users\tanqi\documents\visual studio 2017\projects\cgproject1\cgproject1\cgapp.cpp(89): error C4716: “CGApp::Init3DDevice”: 必须返回一个值
-c:\users\tanqi\documents\visual studio 2017\projects\cgproject1\cgproject1\cgapp.cpp(108): warning C4715: “CGApp::MsgProc”: 不是所有的控件路径都返回值
