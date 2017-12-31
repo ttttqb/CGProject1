@@ -31,8 +31,8 @@
 *.out
 *.app
 
-CGProject1/Debug/
-CGProject1/Release/
+/Debug/
+/Release/
 
 
 *.opendb

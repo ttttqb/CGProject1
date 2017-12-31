@@ -1,0 +1,15 @@
+﻿  CGApp.cpp
+g:\cgproject1\cgproject1\cgapp.cpp(205): warning C4018: “<”: 有符号/无符号不匹配
+g:\cgproject1\cgproject1\cgapp.cpp(215): warning C4018: “<”: 有符号/无符号不匹配
+g:\cgproject1\cgproject1\cgapp.cpp(225): warning C4018: “<”: 有符号/无符号不匹配
+g:\cgproject1\cgproject1\cgapp.cpp(423): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+g:\cgproject1\cgproject1\cgapp.cpp(424): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+g:\cgproject1\cgproject1\cgapp.cpp(622): warning C4018: “<”: 有符号/无符号不匹配
+g:\cgproject1\cgproject1\cgapp.cpp(625): warning C4018: “<”: 有符号/无符号不匹配
+g:\cgproject1\cgproject1\cgapp.cpp(630): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+g:\cgproject1\cgproject1\cgapp.cpp(637): warning C4715: “CGApp::InitModelInput”: 不是所有的控件路径都返回值
+  正在编译...
+  main.cpp
+  正在生成代码...
+  CGProject1.vcxproj -> G:\CGProject1\Debug\CGProject1.exe
