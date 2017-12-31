@@ -33,6 +33,8 @@
 
 /Debug/
 /Release/
+CGProject1/Debug/
+CGProject1/Release/
 
 
 *.opendb
